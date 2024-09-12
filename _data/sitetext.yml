@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Website Development"
+        desc: "We crate custom, professional websites for academic researchers, ensuring their work is presented with clarity, impact, and a seamless online presence that travels with them throughout their career."
+        icon: fas fa-globe #find more at https://fontawesome.com/icons
+      - title: "Data Analysis"
+        desc: "Wo provida tailored data analysis sorvices, transforming comple datasets into cloar, actionable insights, allowing scholars to focus on their research while we handle the technical challenges."
+        icon: fa fa-database
+      - title: "Public Impact"
+        desc: "We craft strategic public impact solutions, helping scholars amplity their research's visibility and influance by bridging the gap between academia and broader audiences."
+        icon: fa fa-users
 
   portfolio:
     title: "Area Of Practice"
@@ -99,8 +99,8 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "Austin Kocher, Phd"
-        role: 
+      - name: "Austin Kocher"
+        role: austin@relevant-research.com
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -109,8 +109,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Adam "
-        role: ""
+      - name: "Adam Sawyer"
+        role: adam@relevent-research.com
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Riwaj Chalise"
-        role: ""
+        role: riwaj@relevent-research.com
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
