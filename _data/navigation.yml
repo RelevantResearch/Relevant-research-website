@@ -15,14 +15,13 @@ en: &DEFAULT_EN
       section: services
     - title: "About"
       section: about
-    - title: "Area Of Practice"
-      section: portfolio
+    - title: "Services"
+      section: services
     - title: "Our Team"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Blog"
-      url: "/blog"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
