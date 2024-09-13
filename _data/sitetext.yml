@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: 
     section: services
     list:
       - title: "Website Development"
@@ -72,7 +72,7 @@ en: &DEFAULT_EN
     title: "About Us"
     text: 
     body: >
-      At Relevant Research, we believe that public communication of rigorous research can shape a better future. Every academic's work deserves to reach its full potential and we provide the tools and strategies to make it happen. With our personalized support, partner scholars can focus time on developing and advancing their reseerch, while we handle the technical and logistical chalenges that have crept up in contemporary academia. Our commitment is to amplity the impact of your research, helping you connect with wider audiences and contribute meeningfuly to your field.
+      At Relevant Research, we believe that public communication of rigorous research can shape a better future. Every academic's work deserves to reach its full potential and we provide the tools and strategies to make it happen. With our personalized support, partner scholars can focus time on developing and advancing their research, while we handle the technical and logistical challenges that have crept up in contemporary academia. Our commitment is to amplity the impact of your research, helping you connect with wider audiences and contribute meaningful to your field.
     section: about
 
   clients:
@@ -94,14 +94,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "OUR TEAM"
     text: 
     subtext: 
     section: team
     people:
       - name: "Austin Kocher"
         role: austin@relevant-research.com
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/austin.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Adam Sawyer"
         role: adam@relevent-research.com
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Adam.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Riwaj Chalise"
         role: riwaj@relevent-research.com
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/riwaj.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -173,7 +173,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text:
     section: servicios
     list:
       - title: "Comercio Electrónico"
