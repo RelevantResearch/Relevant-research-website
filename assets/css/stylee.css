@@ -1,0 +1,73 @@
+/* styles.css */
+
+/* Default light theme colors */
+:root {
+    --background-color: #ffffff;
+    --text-color: #000000;
+}
+
+/* Dark mode styles */
+[data-theme='dark'] {
+    --background-color: #333333;
+    --text-color: #ffffff;
+}
+
+/* General styles */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation and header styles */
+header {
+    padding: 10px;
+    background-color: var(--background-color);
+}
+
+/* Ensure Bootstrap's .bg-light class is overridden */
+[data-theme='dark'] section#contact {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+}
+
+[data-theme='dark'] .bg-light {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: var(--background-color);
+}
+
+/* Toggle switch styles */
+.theme-toggle {
+    cursor: pointer;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.theme-toggle:hover {
+    color: #2196F3;
+}
+
+/* Hide icons initially */
+.icon-moon, .icon-sun {
+    display: none;
+}
+
+/* Display moon icon in light mode and sun icon in dark mode */
+[data-theme='dark'] .icon-moon {
+    display: none;
+}
+[data-theme='dark'] .icon-sun {
+    display: inline;
+}
+[data-theme='light'] .icon-sun {
+    display: none;
+}
+[data-theme='light'] .icon-moon {
+    display: inline;
+}

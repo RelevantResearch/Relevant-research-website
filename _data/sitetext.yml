@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Website Development"
-        desc: "We crate custom, professional websites for academic researchers, ensuring their work is presented with clarity, impact, and a seamless online presence that travels with them throughout their career."
+        desc: "We create custom, professional websites for academic researchers, ensuring their work is presented with clarity, impact, and a seamless online presence that travels with them throughout their careers."
         icon: fas fa-globe #find more at https://fontawesome.com/icons
       - title: "Data Analysis"
-        desc: "Wo provida tailored data analysis sorvices, transforming comple datasets into cloar, actionable insights, allowing scholars to focus on their research while we handle the technical challenges."
+        desc: "We provide tailored data analysis services, transforming complex datasets into clear, actionable insights, allowing scholars to focus on their research while we handle the technical challenges."
         icon: fa fa-database
       - title: "Public Impact"
-        desc: "We craft strategic public impact solutions, helping scholars amplity their research's visibility and influance by bridging the gap between academia and broader audiences."
+        desc: "We craft strategic public impact solutions, helping scholars amplify their research’s visibility and influence by bridging the gap between academia and broader audiences."
         icon: fa fa-users
 
   portfolio:

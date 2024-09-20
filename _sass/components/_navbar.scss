@@ -1,9 +1,11 @@
 // Styling for the navbar
+@use "sass:math";
+
 #mainNav {
   background-color: $gray-900;
   .navbar-toggler {
     font-size: 12px;
-    right: 0;
+    right: 0px;
     padding: 13px;
     text-transform: uppercase;
     color: white;
@@ -18,7 +20,7 @@
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: mix(black, $primary, 10%);
     }
   }
   .navbar-nav {

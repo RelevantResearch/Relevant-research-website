@@ -1,4 +1,6 @@
 // Styling for the portfolio section
+@use "sass:math";
+
 #portfolio {
   .portfolio-item {
     right: 0;
@@ -17,7 +19,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0;
-        background: fade-out($primary, 0.1);
+        background: rgba($primary, 0.9);
         &:hover {
           opacity: 1;
         }

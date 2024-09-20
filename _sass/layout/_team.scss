@@ -1,18 +1,32 @@
 // Styling for the team section
+@use "sass:math";
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
+  
+  // Ensure transitions for smooth effect
   img {
     width: 225px;
     height: 225px;
-    border: 7px solid fade-out($black, 0.9);
+    border: 7px solid rgba($black, 0.1);
     object-fit: cover;
+    
+    // Transition for smooth zoom effect
+    transition: transform 0.3s ease-in-out;
   }
+  
+  // Hover effect for image zoom
+  &:hover img {
+    transform: scale(1.1); // Scale image by 10%
+  }
+  
   h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
   }
+  
   p {
     margin-top: 0;
   }
