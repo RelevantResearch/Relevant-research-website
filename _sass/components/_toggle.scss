@@ -33,13 +33,16 @@ header {
     background-color: var(--background-color) !important;
     color: var(--text-color) !important;
 }
+[data-theme='dark'] .text-muted {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+}
 
 /* Navbar styling */
 .navbar {
     background-color: var(--background-color);
 }
 
-/* Toggle switch styles */
 .theme-toggle {
     cursor: pointer;
     font-size: 25px;
