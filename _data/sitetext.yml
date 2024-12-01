@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         link: "https://relevant-research.com/public-impact"
 
   portfolio:
-    title: "Area Of Practice"
+    title: "Our Recent Work"
     text: 
     section: portfolio
     closebutton: "Close"

@@ -38,14 +38,23 @@
                 default: "Close" }}
               </button>
               <a
-                class="btn btn-primary"
+                class="btn btn-primary custom-margin"
+                href="{{ project.website_url | default: '#' }}"
+                target="_blank"
+                type="button"
+              >
+                <i class="fas fa-external-link-alt"></i>
+                View this Website
+              </a>
+              <a
+                class="btn btn-primary custom-margin"
                 type="button"
                 data-dismiss="modal"
                 onclick="setTimeout(() => { window.location.href = '/#contact'; }, 800);"
 
               >
               <i class="fas fa-envelope"></i>
-               Contact
+               Request free Quotation.
                 </a>
             </div>
           </div>
