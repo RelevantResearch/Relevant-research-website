@@ -9,8 +9,6 @@ permalink: /data-analysis/
 </div>
 -->
 
-We provide tailored data analysis services, transforming complex datasets into clear, actionable insights. Our expertise allows scholars to focus on their research while we handle the technical challenges.
-
 # Data Analysis Services
 
 At Relevant Research, we specialize in transforming complex datasets into clear, actionable insights. Our tailored data analysis services empower scholars to focus on their research while we handle the technical challenges of data management, analysis, and visualization.
