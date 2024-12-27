@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: John Torrens
+  title: Dr. John Torrens
   subtitle: Entrepreneur, Educator, TEDx Speaker, Author
   thumbnail: assets/img/portfolio/1.png
   
