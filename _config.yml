@@ -30,6 +30,9 @@ analytics:
   google: G-EZZLTF8X0X
 
 collections:
+  pages:
+    output: true
+    permalink: /:name/
   portfolio:
 
 markdown: kramdown
